@@ -22,7 +22,7 @@ Eventually, we will be able to visualize the data that are available in the Elas
 
 The following section shows an example of the simulated real-time monitoring system.
 
-## Simulatied Monitoring Tools
+## Simulated Monitoring Tools
 
 <p align="center">
   <img src="./images/Simulated_Real_Time_Monitoring_Tools.png" />
